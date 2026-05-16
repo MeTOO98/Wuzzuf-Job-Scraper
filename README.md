@@ -116,7 +116,7 @@ The included `all_jobs.xlsx` contains real scraped listings including roles such
 ```
 wuzzuf-scraper/
 │
-├── Script_2.py        # Main scraper script
+├── Script.py          # Main scraper script
 ├── all_jobs.xlsx      # Output file with scraped job data
 └── README.md          # Project documentation
 ```
