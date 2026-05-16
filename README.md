@@ -120,19 +120,3 @@ wuzzuf-scraper/
 ├── all_jobs.xlsx      # Output file with scraped job data
 └── README.md          # Project documentation
 ```
-
----
-
-## Possible Improvements
-
-- Add command-line arguments for search query and page limit
-- Add `time.sleep()` between requests to reduce server load
-- Store data in a database (e.g., SQLite) instead of Excel
-- Add proxy rotation to avoid IP blocking
-- Build a simple dashboard to visualize the scraped data
-
----
-
-## Author
-
-Built as a practical application of the `BeautifulSoup` library for web scraping in Python.
