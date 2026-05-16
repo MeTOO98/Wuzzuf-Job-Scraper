@@ -30,7 +30,7 @@ pip install requests beautifulsoup4 lxml pandas
 ## How to Run
 
 ```bash
-python Script_2.py
+python Script.py
 ```
 
 The script targets this default search URL:
