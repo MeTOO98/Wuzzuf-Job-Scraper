@@ -1,4 +1,4 @@
-# import the libraries like requests,beautifulSoup,lxml and Pandas 
+# import the libraries like requests,bs4 and Pandas 
 import requests as rq 
 from bs4 import BeautifulSoup 
 import pandas as pd 
